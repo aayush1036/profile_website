@@ -115,9 +115,12 @@ a:hover{
 a{
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
-    margin: 10px 20px;
+    /* margin: 10px 20px; */
     size:3;
     text-decoration: none;
+}
+.footer-link{
+    margin: 10px 20px;
 }
 .data-slide-to{
     background-color:black;
@@ -138,7 +141,7 @@ a{
     padding-top: 0;
     padding-left: 15%;
     padding-right: 15%;
-    padding-bottom: 7&;
+    padding-bottom: 7%;
 }
 
 .copyright{
